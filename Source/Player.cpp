@@ -22,6 +22,10 @@ Player::Player()
 	//ヒットエフェクト読み込み
 	hitEffect = new Effect("Data/Effect/Hit.efk");
 
+	//テスト
+	int a = 0;
+	a++;
+
 }
 
 //デストラクタ
